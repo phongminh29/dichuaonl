@@ -3,10 +3,12 @@
 Chánh điện online cho TikTok LIVE, có hai giao diện **2.5D** và **3D**. Mỗi người xem bình luận là bước vào chánh điện. Ở bản 3D, nhân vật của họ đi theo thảm đỏ lên lư hương thắp nhang rồi đứng lại cùng đại chúng. Người xem cầu an, xin lộc, gõ mõ, gọi mèo chùa bằng bình luận. Ai tặng quà được xướng tên hồi hướng bằng giọng đọc tiếng Việt. Có nhạc thiền, chuông, mõ, lịch tụng kinh và thiền dẫn.
 
 <p align="center">
-  <img src="docs/screenshots/3d-hall.jpg" width="31%" alt="Chánh điện 3D: nhân vật xếp hàng thắp hương, mèo, cún, hươu và bảng hướng dẫn">
+  <img src="docs/screenshots/3d-hall.jpg" width="31%" alt="Chánh điện 3D với tượng Quan Âm: nhân vật xếp hàng thắp hương, mèo, cún, hươu và bảng hướng dẫn">
   <img src="docs/screenshots/3d-meditation.jpg" width="31%" alt="Thiền dẫn: vòng tròn hít thở, đồng hồ và lời dẫn">
   <img src="docs/screenshots/2d-overlay.jpg" width="31%" alt="Giao diện 2.5D: đèn cầu nguyện, quẻ xăm, mõ">
 </p>
+
+<p align="center"><sub>Tượng Quan Âm trong ảnh là mẫu 3D riêng của kênh, không kèm trong repo. Bản tải về dùng tượng Phật vàng dựng bằng code; muốn dùng tượng của bạn, xem mục <a href="#tượng-3d-của-riêng-bạn">Tượng 3D của riêng bạn</a>.</sub></p>
 
 Mã nguồn miễn phí (MIT), phát triển tiếp từ [Chánh Điện Online của Kent Juno](https://github.com/kentjuno/chanh-dien-online).
 
