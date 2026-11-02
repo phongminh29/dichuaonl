@@ -30,7 +30,7 @@ const settings = {
   autoChant: true, chantEveryMin: 5,
   seatMode: 'auto',                  // auto | 24 | 36 | 64 | 100
   joinOnEnter: false,                // also seat viewers who only enter the room
-  ambient: true,                     // sample guests and teachers say a short light line now and then
+  ambient: false,                    // sample guests and teachers say a short light line now and then (off by default)
   ambientEvery: 5,                   // seconds between lines, on average
   // one "HH:MM text" per line; a line with "thiền" starts a guided meditation at that time ("N phút" sets its length)
   schedule: '20:00 Tụng kinh, nghe pháp\n21:00 Thiền dẫn 10 phút\n21:15 Niệm Phật, nhạc thiền\n22:00 Thiền dẫn 10 phút\n22:15 Nhạc thiền dễ ngủ',
